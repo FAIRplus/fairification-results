@@ -22,7 +22,7 @@
 ||[Post-FAIRification assessment](https://docs.google.com/spreadsheets/d/1abQ5_sOmBWbxAZhQVEUxQ_ybI1yTi0t-tJAVY5J5VY8/edit#gid=400270956)|2019-12-10|RDA indicator v0.03|[RESOLUTE transcriptomics, FAIRified sample metadata](https://www.ncbi.nlm.nih.gov/biosample?LinkName=bioproject_biosample_all&from_uid=545487)|83%|82%|67%| |
 |OncoTrack|[Pre-FAIRification assessment](https://docs.google.com/spreadsheets/d/12TO6C-WNNjbM1ktiLsLTtemy1LUOHFa4/edit#gid=1320380260)|2019-12-09|RDA indicator v0.03|[OncoTrack public sample metadata, raw data](https://owncloud.lcsb.uni.lu/apps/files/?dir=/ONCOTRACK/ncomms14262&fileid=11235020)|15%|23%|10%| |
 ||[Post-FAIRification assessment](https://docs.google.com/spreadsheets/d/12TO6C-WNNjbM1ktiLsLTtemy1LUOHFa4/edit#gid=540023127)|2019-12-10|RDA indicator v0.03|[OncoTrack public sample metadata, FAIRifed v1](https://owncloud.lcsb.uni.lu/apps/files/?dir=/ONCOTRACK/sample_metadata_ETL/metadata_BSD_JSON&fileid=14712690)|35%|46%|20%| |
-|eTox|[Pre-FAIRification assessment](https://docs.google.com/spreadsheets/d/1v_S7qGo1RJh-bK6C1IR9EAsz7UpJUNQx5gFlCtTQapQ/edit#gid=1637344573)|2019-10-17|[RDA indicator v0.02](https://github.com/RDA-FAIR/FAIR-data-maturity-model-WG/tree/master/results%20of%20preliminary%20analysis/v0.02)|eTOX dataset|9.26%|8.33%|14.29%| |
+|eTox|[Pre-FAIRification assessment](https://docs.google.com/spreadsheets/d/1v_S7qGo1RJh-bK6C1IR9EAsz7UpJUNQx5gFlCtTQapQ/edit#gid=1637344573)|2019-10-17|[RDA indicator v0.02](https://github.com/RDA-FAIR/FAIR-data-maturity-model-WG/tree/master/results%20of%20preliminary%20analysis/v0.02)|[eTOX dataset](https://etoxsys.eu/etoxsys.v3-demo/#/)|9.26%|8.33%|14.29%| |
 ||Post-FAIRification assessment|NA|NA|NA|NA|NA|NA||
 
 ### Project record on IMI catalog (Task 2 and 5)
