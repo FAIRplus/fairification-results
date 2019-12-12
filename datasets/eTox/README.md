@@ -1,4 +1,4 @@
-![etox](/img/etox.png)
+![etox](/fairification-results/img/etox.png)
 
 # eTOX
 

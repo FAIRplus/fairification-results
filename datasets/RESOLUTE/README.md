@@ -1,4 +1,4 @@
-![RESOLUTE](/img/resolute.png)
+![RESOLUTE](/fairification-results/img/resolute.png)
 
 # ReSOLUTE dataset
 

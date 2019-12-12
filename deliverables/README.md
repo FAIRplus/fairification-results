@@ -27,16 +27,16 @@
 
 ### Project record on IMI catalog (Task 2 and 5)
 
-<img src="/img/nd4bb.png" width="250"> [ND4BB Translocation](https://datacatalog.elixir-luxembourg.org/dataset/79d1c3a2-104d-11ea-9e31-0050569a29db)
+<img src="/fairification-results/img/nd4bb.png" width="250"> [ND4BB Translocation](https://datacatalog.elixir-luxembourg.org/dataset/79d1c3a2-104d-11ea-9e31-0050569a29db)
 
 
-<img src="/img/resolute.png" width="250"> [RESOLUTE](https://datacatalog.elixir-luxembourg.org/dataset/79d2691a-104d-11ea-9e31-0050569a29db)
+<img src="/fairification-results/img/resolute.png" width="250"> [RESOLUTE](https://datacatalog.elixir-luxembourg.org/dataset/79d2691a-104d-11ea-9e31-0050569a29db)
 
 
-<img src="/img/oncotrack.jpg" width="250"> [OncoTrack](httgitps://datacatalog.elixir-luxembourg.org/dataset/64f33e4f-0d6d-4062-86c5-9c3db4e3a99a)
+<img src="/fairification-results/img/oncotrack.jpg" width="250"> [OncoTrack](httgitps://datacatalog.elixir-luxembourg.org/dataset/64f33e4f-0d6d-4062-86c5-9c3db4e3a99a)
 
 
-<img src="/img/etox.png" width="250"> eTox
+<img src="/fairification-results/img/etox.png" width="250"> eTox
 
 
 ### FAIRification recipes (Task 3)

@@ -1,4 +1,4 @@
-![ND4BB](/img/nd4bb.png)
+![ND4BB](/fairification-results/img/nd4bb.png)
 
 # IMI ND4BB TRANSLOCATION
 

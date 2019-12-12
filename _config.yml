@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/fairplus-logo.png"
+avatar: "/fairification-results/img/fairplus-logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -56,7 +56,7 @@ footer-link-col: "#FD9262"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-footer-img: "/img/footer.jpg"
+footer-img: "/fairification-results/img/footer.jpg"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #

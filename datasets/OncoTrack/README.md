@@ -1,4 +1,4 @@
-![Oncotrack](/img/oncotrack.jpg)
+![Oncotrack](/fairification-results/img/oncotrack.jpg)
 
 # OncoTrack
 
