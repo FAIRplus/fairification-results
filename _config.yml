@@ -21,12 +21,14 @@ description: FAIRplus project outcomes
 # List of links in the navigation bar
 navbar-links:
   Project: "https://fairplus-project.eu/"
+  FAIR cookbook: "https://fairplus.github.io/the-fair-cookbook/intro"
   Datasets:
     - RESOLUTE: "/datasets/RESOLUTE"
     - OncoTrack: "/datasets/OncoTrack/"
     - ND4BB: "/datasets/ND4BB_AMR/"
     - eTOX: "/datasets/eTox/"
   Deliverables: "/deliverables/"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
