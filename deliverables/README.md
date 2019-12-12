@@ -36,7 +36,7 @@
 <img src="/fairification-results/img/oncotrack.jpg" width="250"> [OncoTrack](httgitps://datacatalog.elixir-luxembourg.org/dataset/64f33e4f-0d6d-4062-86c5-9c3db4e3a99a)
 
 
-<img src="/fairification-results/img/etox.png" width="250"> eTox
+<img src="/fairification-results/img/etox.png" width="250"> [eTox](https://datacatalog.elixir-luxembourg.org/dataset/484548a2-1ce8-11ea-8039-8c8590c45a21)
 
 
 ### FAIRification recipes (Task 3)
