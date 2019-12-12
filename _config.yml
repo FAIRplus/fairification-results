@@ -11,7 +11,7 @@ description: FAIRplus project outcomes
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://fairplus.github.io/fairification-results/"
+url: "https://fairplus.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
