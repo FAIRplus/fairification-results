@@ -1,5 +1,12 @@
 # FAIRplus FAIRification Results
 
+### 2020-12
+|IMI project|Link to pre-FAIRification assessment results|
+|--|--|
+|EBiSC|[EBiSC pre-FAIRfiication assessment](https://fairplus.github.io/fairification-results/2020-12-13-EBiSC-pre-assessment/)
+|IMDIA|[IMDIA pre-FAIRfiication assessment](https://fairplus.github.io/fairification-results/2020-12-13-IMDIA-pre-assessment/)
+|RHAPSODY]|[Rhapsody pre-FAIRfiication assessment](https://fairplus.github.io/fairification-results/2020-12-13-Rhapsody-pre-assessment/) 
+
 ### 2019-12
 
 ## Tasks
