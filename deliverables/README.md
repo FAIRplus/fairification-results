@@ -34,16 +34,16 @@
 
 ### Project record on IMI catalog (Task 2 and 5)
 
-<img src="/fairification-results/img/nd4bb.png" width="250"> [ND4BB Translocation](https://datacatalog.elixir-luxembourg.org/dataset/79d1c3a2-104d-11ea-9e31-0050569a29db)
+<img src="/fairification-results/img/nd4bb.png" width="250"> [ND4BB Translocation](https://datacatalog.elixir-luxembourg.org/e/project/dc9bffc0-147a-11eb-b51f-8c8590c45a21)
 
 
-<img src="/fairification-results/img/resolute.png" width="250"> [RESOLUTE](https://datacatalog.elixir-luxembourg.org/dataset/79d2691a-104d-11ea-9e31-0050569a29db)
+<img src="/fairification-results/img/resolute.png" width="250"> [RESOLUTE](https://datacatalog.elixir-luxembourg.org/e/project/dc9c1316-147a-11eb-b51f-8c8590c45a21)
 
 
-<img src="/fairification-results/img/oncotrack.jpg" width="250"> [OncoTrack](httgitps://datacatalog.elixir-luxembourg.org/dataset/64f33e4f-0d6d-4062-86c5-9c3db4e3a99a)
+<img src="/fairification-results/img/oncotrack.jpg" width="250"> [OncoTrack](https://datacatalog.elixir-luxembourg.org/e/project/dc9c45f2-147a-11eb-b51f-8c8590c45a21)
 
 
-<img src="/fairification-results/img/etox.png" width="250"> [eTox](https://datacatalog.elixir-luxembourg.org/dataset/484548a2-1ce8-11ea-8039-8c8590c45a21)
+<img src="/fairification-results/img/etox.png" width="250"> [eTox](https://datacatalog.elixir-luxembourg.org/e/project/dc9c626c-147a-11eb-b51f-8c8590c45a21)
 
 
 ### FAIRification recipes (Task 3)
@@ -51,5 +51,5 @@
 - [ND4BB](https://fairplus.github.io/the-fair-cookbook/recipes/nd4bb_raw/FAIRification_CookBook_Recipe1_V02.html)
 - [RESOLUTE](https://fairplus.github.io/the-fair-cookbook/recipes/resolute_raw/rawRecipe_resolute.html)
 - [OncoTrack](https://fairplus.github.io/the-fair-cookbook/recipes/oncotrack_raw/rawRecipe-oncotrack.html)
-- [eTOX](https://fairplus.github.io/the-fair-cookbook/recipes/etox_raw/FAIRplus_Recipe_Ontology_mapping_the_eTox_dataset_scenario.html)
+- [eTOX](https://doi.org/10.1038/nrd.2017.177)
 
