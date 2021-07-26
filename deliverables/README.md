@@ -1,28 +1,13 @@
 # FAIRplus FAIRification Results
 
-### 2020-12
-- [EBiSC pre-FAIRfiication assessment](https://fairplus.github.io/fairification-results/2020-12-13-EBiSC-pre-assessment/)
-
-- [IMDIA pre-FAIRfiication assessment](https://fairplus.github.io/fairification-results/2020-12-13-IMDIA-pre-assessment/)
-
-- [RHAPSODY pre-FAIRfiication assessment](https://fairplus.github.io/fairification-results/2020-12-13-Rhapsody-pre-assessment/) 
-
-### 2019-12
-
-## Tasks
-
-1. FAIR assessment before FAIRification
-2. Record for each of the 4 pilot datasets in the IMI catalogue
-3. Write recipes for cookbook and apply it to each of the pilot datasets
-4. FAIR assessment after FAIRification
-5. Record assessment output from 4. in IMI catalogue.
-
-## Outcomes
-
-### FAIR assessment (Task 1 and 4)
+### FAIR assessments
 
 | Dataset | Assessment name | Time | FAIR indicators | Dataset |  FAIR score, overall | FAIR score, mandatory indicators | FAIR score, recommended indicators | Notes | 
-| --- | --- | --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | --- | --- | --- | ---|
+|CARE|[Pre-FAIRification assessment](https://fairplus.github.io/fairification-results/2021-07-20-CARE-pre-assessment/)|2021-07-20|[RDA indicators v1.00]( https://www.rd-alliance.org/system/files/FAIR%20Data%20Maturity%20Model_%20specification%20and%20guidelines_v1.00.pdf)|[CARE pre-FAIRfication dataset](https://zenodo.org/record/4774709)|37.50%|55.00%|20.00%|
+|RHAPSODY|[Pre-FAIRification assessment](https://fairplus.github.io/fairification-results/2020-12-13-Rhapsody-pre-assessment/) |2020-12-13|[FAIRplus indicators v0.01](https://fairplus.github.io/fairification-results/2020-10-11-FAIRplus-indicators-v0.1/|Internal datasets|||
+|EBiSC|[Pre-FAIRification assessment](https://fairplus.github.io/fairification-results/2020-12-13-EBiSC-pre-assessment/)|2020-12-13|[FAIRplus indicators v0.01](https://fairplus.github.io/fairification-results/2020-10-11-FAIRplus-indicators-v0.1/|[EBiSC data catalogue](https://datacatalog.elixir-luxembourg.org/e/project/7061ad8a-50ef-11eb-89dd-acde48001122)|||
+|IMDIA|[Pre-FAIRification assessment](https://fairplus.github.io/fairification-results/2020-12-13-IMDIA-pre-assessment/)|2020-12-13|[FAIRplus indicators v0.01](https://fairplus.github.io/fairification-results/2020-10-11-FAIRplus-indicators-v0.1/|Internal datasets|||
 |ND4BB|[Pre-FAIRification assessment](https://fairplus.github.io/fairification-results/2019-12-17-ND4BB-Pre-assessment/)|2019-11-23|[RDA indicator v0.03](https://docs.google.com/spreadsheets/d/1mkjElFrTBPBH0QViODexNur0xNGhJqau0zkL4w8RRAw/edit#gid=1558529297)|[ND4BB AMR dataset, raw data](https://www.dsf.unica.it/translocation/db/)|36.00%|47.06%|32.00%|Some indicators are not applicable to this dataset|
 ||[Post-FAIRification assessment](https://fairplus.github.io/fairification-results/2019-12-17-ND4BB-post-assessment/)|2019-11-23|[RDA indicator v0.03](https://docs.google.com/spreadsheets/d/1mkjElFrTBPBH0QViODexNur0xNGhJqau0zkL4w8RRAw/edit#gid=1558529297)|[ND4BB AMR dataset, raw data](https://www.dsf.unica.it/translocation/db/)|36.00%|47.06%|32.00%|the FAIRification pratices were not reflected in the post-FAIRification score|
 |RESOLUTE|[Pre-FAIRification assessment](https://fairplus.github.io/fairification-results/2019-12-17-RESOLUTE-Pre-assessment/)|2019-10-14|[RDA indicator v0.02](https://github.com/RDA-FAIR/FAIR-data-maturity-model-WG/tree/master/results%20of%20preliminary%20analysis/v0.02)|[RESOLUTE transcriptomics huh-7 cell line](https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR9161237)|58.7%|63.84%|66.67%|Some indicators are not applicable to this dataset|
