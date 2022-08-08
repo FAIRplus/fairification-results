@@ -17,10 +17,7 @@ url: "https://fairplus.github.io"
 #baseurl: ""
 
 # --- Navigation bar options --- #
-navbar-links:
-  FAIRplus project website: "https://fairplus-project.eu/"
-  Project deliverables: "https://zenodo.org/search?page=1&size=20&q=fairplus&keywords=FAIRplus"
-
+navbar: true
 # List of links in the navigation bar
 navbar-links:
 #  Project: "https://fairplus-project.eu/"
@@ -58,7 +55,7 @@ footer-link-col: "#FD9262"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+ navbar-img: "/img/footer.png"
 footer-img: "/img/footer.jpg"
 # page-img: "/img/bgimage.png"
 
@@ -86,8 +83,6 @@ share-links-active:
 url-pretty: "https://fairplus-project.eu/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
-
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
 
@@ -103,7 +98,7 @@ edit_page_button: true
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
+navbar-var-length: 100%
 
 
 # --- Web Statistics Section --- #
